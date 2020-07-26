@@ -1,4 +1,4 @@
-![Dream Job Demo](erijLogo.png)
+![ejho logo](/ericjLogo.png)
 
 
 ### Hi there 👋
