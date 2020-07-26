@@ -1,6 +1,9 @@
 <a href="https://ericjho.com">
   <img src="https://raw.githubusercontent.com/Inhockorea/Inhockorea/master/ericjLogo.png" width="100%">
 </a>
+<br/>
+<br/>
+<br/>
 
 - 🔭   I’m currently working at Helix Consulting Partners as a full stack software engineer intern.
 
