@@ -1,19 +1,11 @@
 ![ejho logo](/ericjLogo.png)
 
+<br/>
+### Hi! How are you? 👋
 
-### Hi there 👋
+- 🔭 I’m currently working at Helix Consulting Partners as a full stack software engineer intern.
+- 📫 You could reach me at: ejho13@berkeley.edu 
+- :computer: I am a SF based full-stack software engineer who is design minded, motivated to uplift others and use the power of
+software engineering to bring positive changes :smile:
 
-<!--
-**Inhockorea/Inhockorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out [my website](https://ericjho.com)!
