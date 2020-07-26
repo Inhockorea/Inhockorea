@@ -1,3 +1,6 @@
+![Dream Job Demo](erijLogo.png)
+
+
 ### Hi there 👋
 
 <!--
