@@ -1,5 +1,6 @@
-![ejho logo](/ericjLogo.png)
-
+<a href="https://ericjho.com">
+  <img src="https://raw.githubusercontent.com/Inhockorea/Inhockorea/master/ericjLogo.png" width="100%">
+</a>
 
 - 🔭   I’m currently working at Helix Consulting Partners as a full stack software engineer intern.
 
