@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-- 🔭   I’m currently working at Helix Consulting Partners as a full stack software engineer intern.
+- 🔭   I’m currently working at Helix Consulting Partners as a full stack software engineer.
 
 - 📫   You could reach me at: ejho13@berkeley.edu 
 
